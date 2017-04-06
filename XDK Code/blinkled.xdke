@@ -1,0 +1,82 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1490298926000,
+        "modified": 1490298926000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1490298926000,
+        "modified": 1490298926000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1490298926000,
+        "modified": 1490298926000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "blinkled.xdk": {
+        "previousModTime": 1490298927000,
+        "modified": 1490298927000,
+        "seen": true,
+        "name": "blinkled.xdk"
+      },
+      "blinkled.xdke": {
+        "previousModTime": 1490830421000,
+        "modified": 1490830421000,
+        "seen": true,
+        "name": "blinkled.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1490298926000,
+        "modified": 1490298926000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1490803792000,
+        "modified": 1490803792000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1490308358000,
+        "modified": 1490308358000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "utl/cfg-app-platform.js": {
+        "previousModTime": 1490307332000,
+        "modified": 1490307332000,
+        "seen": true,
+        "name": "utl/cfg-app-platform.js"
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1490298926000,
+        "modified": 1490298926000,
+        "seen": true,
+        "name": "utl/version-compare.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1490298927000,
+        "modified": 1490298927000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}

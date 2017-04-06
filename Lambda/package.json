@@ -1,0 +1,15 @@
+{
+  "name": "voice-control-framework",
+  "version": "1.0.0",
+  "description": "Lambda Code for voice control framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Kronberg",
+  "license": "MIT",
+  "dependencies": {
+  "aws-sdk":"latest",
+  "alexa-sdk":"latest"
+  }
+}
