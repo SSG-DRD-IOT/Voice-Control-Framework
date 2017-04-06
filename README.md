@@ -2,6 +2,8 @@
 
 This is the code for the Alexa Voice Control Framework Running on Intel NUC. For full instructions please view this webinar:
 
+https://intelvs.on24.com/vshow/IntelWebinarEvents/content/1392922
+
 Steps:
 
 * In the Lambda folder run "npm install" in order to get the node_modules folder
