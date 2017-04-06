@@ -1,4 +1,4 @@
-#Voice Control Framework With Alexa Skills and Intel NUC#
+# Voice Control Framework With Alexa Skills and Intel NUC #
 
 This is the code for the Alexa Voice Control Framework Running on Intel NUC. For full instructions please view this webinar:
 
