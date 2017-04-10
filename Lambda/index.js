@@ -3,8 +3,9 @@ var config = {};
 
 var AWS = require('aws-sdk');
 
+//replace with endpoint from AWS IoT Device 
 
-var iotData = new AWS.IotData({endpoint: 'a2la7zf3kffmrf.iot.us-east-1.amazonaws.com', region: 'us-east-1'});
+var iotData = new AWS.IotData({endpoint: 'END_POINT.amazonaws.com', region: 'us-east-1'});
 
 var Alexa = require('alexa-sdk');
 var APP_ID = undefined; //OPTIONAL: replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
