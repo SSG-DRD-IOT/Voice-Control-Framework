@@ -26,13 +26,15 @@ process.exit(2) ;
 const deviceModule = require('aws-iot-device-sdk').device;
 
 
+
+
 function connectAWS() {
 
    const device = deviceModule({
-      keyPath: "/root/Gateway-ASK.private.key",
+      keyPath: "/root/Gateway-ASK.private.key", //Make sure these paths match your certifacte locations 
       certPath: "/root/Gateway-ASK.cert.pem",
       caPath: "/root/root-CA.crt",
-      host: "a2la7zf3kffmrf.iot.us-east-1.amazonaws.com",
+      host: "END_POINT.amazonaws.com", //Replace with your endpoint from AWS IoT Device Dashboard
    });
 
 
